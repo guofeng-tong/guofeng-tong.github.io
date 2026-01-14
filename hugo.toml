@@ -1,0 +1,12 @@
+baseURL = "http://localhost/"
+languageCode = "zh-cn"
+title = "Guofeng Tong | blog"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowWordCount = true
